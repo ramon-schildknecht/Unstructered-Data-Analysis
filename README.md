@@ -4,7 +4,7 @@
 Preprocess text data, perform LDA on it, get optimum numer of topics for the data and show the top 10 words for each topic. 
 
 One finds the detailed task and the solution in the following file: <br>
-Analyzing Unstructured Data.ipynb
+Assignment - Analyzing Unstructured Data.ipynb
 
 This is a solution to a programming assignment within the [GSERM course "Unstructered Data Analysis"](https://www.gserm.ch/stgallen/course/?course_code=10,810) at Universität St. Gallen.
 
